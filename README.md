@@ -84,4 +84,4 @@
 
 > 🌟 **Ideal for travelers, students, curious minds, and anyone who wants to have the world in their pocket.** From the flag of Japan to the languages ​​of Nigeria, every swipe is a new discovery.
 
-**Ready to explore?** Open `Flags and Culture at Your Fingertips.html` in your favorite browser and start your journey to every corner of the planet. 🌎✨
+**Ready to explore?** Open `https://dar003.github.io/Flags-and-Culture-at-Your-Fingertips/` in your favorite browser and start your journey to every corner of the planet. 🌎✨
